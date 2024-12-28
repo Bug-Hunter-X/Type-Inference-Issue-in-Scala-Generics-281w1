@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to type inference in Scala generics. The `MyClass` example seemingly works correctly, but demonstrates a potential issue that can arise in more complex scenarios involving type inference and generic classes.  The solution provides a clearer approach to avoid ambiguity.
